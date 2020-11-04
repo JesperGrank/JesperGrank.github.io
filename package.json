@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap_tutorial",
+  "version": "1.0.0",
+  "description": "A bootstrap tutorial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesper",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha2"
+  }
+}
